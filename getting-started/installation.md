@@ -46,6 +46,8 @@ This would guide you through the installation process of PiCapes.
 
 </div>
 
+After installation, the next step is to register your Minecraft account with PiCapes.
+
 <style>
 .install-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:32px 0}
 .install-card{display:flex;flex-direction:column;padding:24px;border:1px solid var(--vp-c-divider);border-radius:16px;background:var(--vp-c-bg-soft)}
@@ -83,22 +85,4 @@ transition:.15s
 text-decoration:none!important;
 color:#fff!important
 }
-</style>
-
-
-
-## Video Tutorial
-<div class="video-container">
-  <iframe
-    :src="`https://www.youtube.com/embed/${videoId}`"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  ></iframe>
-</div>
-
-<style>
-.video-container{position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px}
-.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
 </style>

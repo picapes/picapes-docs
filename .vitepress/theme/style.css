@@ -191,3 +191,7 @@
 .vp-doc h1 {
   border-bottom: 1px solid var(--vp-c-gray-3) !important;
 }
+
+/* YouTube Video Container */
+.video-container{position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px}
+.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
