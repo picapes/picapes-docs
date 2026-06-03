@@ -1,8 +1,18 @@
 # Terms of Service
-::: warning Policy Notice
-Deliberately spreading false, misleading, fabricated, or misrepresented information regarding PiCapes, its Terms of Service, Privacy Policy, staff members, community, or services is prohibited.
+::: info 📝 Quick Summary (Non-Binding)
+This section is provided for convenience and summarizes some important points of these Terms of Service. It is **not a complete description** of all rights, obligations, restrictions, disclaimers, or policies. In the event of any conflict, ambiguity, or omission, the full Terms of Service below take precedence.
 
-PiCapes reserves the right to take moderation, account, or legal action where appropriate against individuals who knowingly engage in such conduct.
+* **Acceptance of Terms:** By creating an account or using PiCapes services, including the website, APIs, software, mod, or related platforms, you agree to these Terms of Service.
+* **Changes to These Terms:** PiCapes may update these Terms at any time. Continued use of PiCapes after changes become effective constitutes acceptance of the revised Terms.
+* **Independent Community Project:** PiCapes is an independent community project owned and operated by Prathviraj Kushwaha. PiCapes is not affiliated with, endorsed by, sponsored by, or associated with Microsoft, Mojang Studios, Minecraft, OptiFine, Fabric, Forge, NeoForge, or other third-party platforms unless explicitly stated.
+* **User Content:** You remain the owner of content you submit; however, by submitting capes, artwork, suggestions, code, or other materials, you grant PiCapes a perpetual, worldwide, non-exclusive, royalty-free license to use, modify, distribute, display, and incorporate such content into the project and related services.
+* **Misinformation & Misrepresentation:** Knowingly spreading false or misleading information about PiCapes, its policies, staff, community, or services is prohibited and may result in moderation actions, account restrictions, or termination of access.
+* **Account Responsibility:** You are responsible for maintaining the security of your account and any activities performed through it. Account sharing, impersonation, abuse, and unauthorized access attempts are prohibited.
+* **Service Availability:** PiCapes is provided on an "as is" and "as available" basis. Features, integrations, APIs, and services may change, be restricted, or be discontinued without notice.
+* **Limitation of Liability:** PiCapes, its owner, contributors, and developers are not liable for damages arising from the use of, or inability to use, the service, to the maximum extent permitted by applicable law.
+* **Account Termination:** PiCapes may suspend, restrict, or terminate accounts that violate these Terms, applicable laws, or community standards.
+* **Governing Law:** These Terms are governed by and interpreted in accordance with the laws of India.
+* **Read the Full Terms:** This summary should not be considered a substitute for reading the complete Terms of Service below.
 :::
 
 ## Acceptance of Terms
@@ -40,6 +50,14 @@ All content, software, services, branding, source code, graphics, documentation,
 By submitting capes, cape concepts, textures, artwork, screenshots, suggestions, code, or other content to PiCapes, you grant PiCapes a perpetual, worldwide, non-exclusive, royalty-free license to use, modify, reproduce, distribute, display, publish, and incorporate such content into PiCapes services, promotional materials, and related projects.
 
 PiCapes is not obligated to use submitted content and may remove, reject, modify, or discontinue use of any submission at its discretion.
+
+## Misinformation and Misrepresentation
+
+Users may not knowingly spread false, misleading, fabricated, or misrepresented information regarding PiCapes, its services, staff members, contributors, community, Terms of Service, Privacy Policy, or operations.
+
+Users are expected to interpret and discuss PiCapes policies in good faith. Deliberate misrepresentation, selective quotation intended to mislead, impersonation of staff, or the creation and distribution of false claims regarding PiCapes may result in moderation actions, account restrictions, suspension, termination of access, or other action where appropriate.
+
+Nothing in this section shall be construed as restricting good-faith criticism, feedback, discussion, reporting, or disagreement regarding PiCapes or its policies.
 
 ## Copyright
 

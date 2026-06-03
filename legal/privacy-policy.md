@@ -1,8 +1,16 @@
 # Privacy Policy
-::: warning  Policy Notice
-Deliberately spreading false, misleading, fabricated, or misrepresented information regarding PiCapes, its Terms of Service, Privacy Policy, staff members, community, or services is prohibited.
+::: info 📝 Quick Summary (Non-Binding)
+This section is provided for convenience and summarizes some important points of this Privacy Policy. It is **not a complete description** of all terms, rights, obligations, limitations, or policies. In the event of any conflict, ambiguity, or omission, the full Privacy Policy below takes precedence.
 
-PiCapes reserves the right to take moderation, account, or legal action where appropriate against individuals who knowingly engage in such conduct.
+* **Privacy First:** PiCapes is designed to collect and store as little information as reasonably necessary to operate the service.
+* **Information We Store:** PiCapes may store information such as Minecraft usernames (IGNs), cape selections, account preferences, and content you voluntarily submit, including feedback, bug reports, or support requests.
+* **Optional Community Information:** Information provided through community platforms, such as Discord roles for country, language, region, or interests, is entirely optional and not required to use PiCapes.
+* **How Information Is Used:** Stored information is used to provide cape functionality, manage accounts, process submissions, improve the platform, maintain security, and prevent abuse.
+* **Third-Party Services:** PiCapes may rely on third-party providers for hosting, content delivery, authentication, analytics, advertising, and related services. These providers operate under their own privacy policies, which PiCapes does not control.
+* **Data Retention:** Information is retained only for as long as reasonably necessary to operate PiCapes and maintain account functionality. Inactive accounts or unused data may be removed.
+* **Security:** PiCapes takes reasonable measures to protect stored information; however, no online service can guarantee absolute security.
+* **Your Rights:** You may request account deletion and removal of associated data where technically feasible and legally permitted.
+* **Read the Full Policy:** This summary should not be considered a substitute for reading the complete Privacy Policy below.
 :::
 
 ## Introduction
