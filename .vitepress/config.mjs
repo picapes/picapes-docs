@@ -65,10 +65,9 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: 'Installation Guide', link: '/getting-started/installation', 
-            items: [
-              { text: 'OptiPi Proxy Guide', link: '/getting-started/optipi-proxy' }
-            ]
+          { 
+            text: 'Installation Guide', 
+            link: '/getting-started/installation', 
           },
           {
             text: 'Registration Guide',
@@ -76,7 +75,12 @@ export default defineConfig({
           }
         ]
       },
-
+      {
+        text: 'Other Guides',
+        items: [
+          { text: 'OptiPi Proxy Setup', link: '/other-guides/optipi-proxy' }
+        ]
+      },
       {
         text: 'Legal',
         items: [

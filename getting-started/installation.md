@@ -36,7 +36,7 @@ This would guide you through the installation process of PiCapes.
     <p>
       Display PiCapes capes in OptiFine clients or <a href="https://modrinth.com/mod/capes">Fabric + Capes Mod</a> without installing the PiCapes's Fabric mod.
     </p>
-    <a href="/getting-started/optipi-proxy" class="install-btn secondary">
+    <a href="/other-guides/optipi-proxy" class="install-btn secondary">
       Setup Proxy
     </a>
     <div class="install-meta warning">
