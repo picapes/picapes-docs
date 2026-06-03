@@ -150,13 +150,6 @@
   color: var(--primary-red);
 }
 
-/* distance between text and icon */
-.VPHomeHero .actions .VPButton {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-}
-
 /* Footer Modified */
 .VPFooter {
   border-top: none !important;
@@ -175,13 +168,8 @@
   color: var(--primary-red);
 }
 
-/* Image Deskop Adjustment */
-@media (min-width: 960px){
-  .VPHomeHero .image{margin:60px auto 0}
-}
 
-
-/* margins & border-top removed and added border-bottom for markdown-like look :)*/
+/* Global: markdown margins & border-top removed and added border-bottom for markdown-like look :)*/
 .vp-doc h2 {
   margin: 0 !important;
   border-top: none !important;
@@ -192,6 +180,10 @@
   border-bottom: 1px solid var(--vp-c-gray-3) !important;
 }
 
-/* YouTube Video Container */
+/* Global: YouTube Video Container */
 .video-container{position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px}
 .video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
+
+/* Global: Selection */
+::selection {background: rgba(255, 80, 80, 0.08);}
+::-moz-selection {background: rgba(255, 80, 80, 0.08);}

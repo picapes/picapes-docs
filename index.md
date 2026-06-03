@@ -39,6 +39,25 @@ features:
 ---
 
 <style>
+/* Distance between text and icon */
+.VPHomeHero .actions .VPButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Image Deskop Adjustment */
+@media (min-width: 960px){
+  .VPHomeHero .image{margin:60px auto 0}
+}
+
+/* Disable Image Dragging */
+.VPHomeHero img {
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: none; /* optional */
+}
+
 /* Formatting for hero badge */
 .hero-badge{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.55rem 1rem;border-radius:999px;background:#7f1d1d;color:#ffd4d4;font-weight:600;font-size:.92rem;line-height:1;white-space:nowrap}
 .hero-badge i{font-size:.9rem}
