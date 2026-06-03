@@ -29,12 +29,12 @@ This would guide you through the installation process of PiCapes.
         <img src="/assets/installation/arcpi.png" alt="ArcPi Proxy">
         <div>
           <h3>ArcPi Proxy</h3>
-          <span class="tag secondary">For Older Minecraft Versions</span>
+          <span class="tag secondary">For Other Minecraft Versions</span>
         </div>
       </div>
     </div>
     <p>
-      Display PiCapes capes in OptiFine clients & <a href="https://modrinth.com/mod/capes">Fabric Capes Mod</a> without installing the PiCapes's Fabric mod.
+      Display PiCapes capes in various Minecraft clients without installing additional mods.
     </p>
     <a href="/other-guides/arcpi-proxy" class="install-btn secondary">
       Setup Proxy
@@ -46,9 +46,9 @@ This would guide you through the installation process of PiCapes.
 
 </div>
 
-PiCapes runs entirely through our Discord bot, so if you're not already in the server, make sure you [join](https://dsc.gg/picapes) before you install.
+After installation, the next step is to [register your Minecraft account](/getting-started/registering-your-account).
 
-If you're looking for just a basic setup, the `#📚・tutorial` channel should explain everything you need to know. If you need more help, simply watch the tutorial below.
+PiCapes runs entirely through our Discord bot, so if you're not already in the server, make sure you [join](https://dsc.gg/picapes) before you install. If you need more help, simply watch the tutorial below.
 
 <div class="video-container">
   <iframe

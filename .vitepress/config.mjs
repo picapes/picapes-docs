@@ -59,24 +59,16 @@ export default defineConfig({
       {
         text: 'Introduction',
         items: [
-          { text: 'What is PiCapes?', link: '/introduction/what-is-picapes' }
+          { text: 'What is PiCapes?', link: '/introduction/what-is-picapes' },
+          { text: 'Frequently Asked Questions', link: '/introduction/faq' }
         ]
       },
       {
         text: 'Getting Started',
         items: [
-          { 
-            text: 'Installing the Mod', 
-            link: '/getting-started/installation', 
-          },
-          {
-            text: 'Registering Your Account',
-            link: '/getting-started/registering-your-account'
-          },
-          {
-            text: 'Using the Dashboard',
-            link: '/getting-started/using-the-dashboard'
-          }
+          { text: 'Installing the Mod', link: '/getting-started/installation'},
+          { text: 'Registering your Account', link: '/getting-started/registering-your-account' },
+          { text: 'Using the Dashboard', link: '/getting-started/using-the-dashboard' }
         ]
       },
       {

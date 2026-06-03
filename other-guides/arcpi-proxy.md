@@ -1,13 +1,14 @@
 # ArcPi Proxy Guide
 
-ArcPi Proxy allows PiCapes capes to be displayed in clients that support OptiFine capes, making it a useful option for older Minecraft versions and players who cannot use the PiCapes Fabric mod.
+ArcPi Proxy allows PiCapes capes to be displayed in clients that support OptiFine capes, including **OptiFine**, **1.8 PvP clients**, **[Fabric Capes mod](https://modrinth.com/mod/capes)**, and more. This makes it a useful option for older Minecraft versions and players who cannot use the PiCapes Fabric mod.
+
 
 ## How it Works?
-When a client requests an OptiFine cape, the request would normally be sent to the OptiFine cape servers. ArcPi Proxy uses a DNS or hosts-file redirect to reroute these requests to the PiCapes servers instead.
+When your game requests an OptiFine cape, ArcPi Proxy uses DNS or hosts-file redirection to send the request to PiCapes instead of the OptiFine cape servers.
 
 ![ArcPi Proxy](/assets/installation/how_arcpi_proxy_works.png)
 
-PiCapes then serves your cape in an OptiFine-compatible format. Since the client still believes it is communicating with the OptiFine cape servers, the cape is displayed normally without requiring the PiCapes Fabric mod.
+PiCapes then provides your cape in a format that OptiFine-compatible clients can use, allowing it to appear normally without installing any additional mods.
 
 ## Installation
 To set up ArcPi Proxy, you can either modify your system's hosts file or use a DNS service that supports custom records. Below are the preferred methods for each platform:
