@@ -66,19 +66,23 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { 
-            text: 'Installation Guide', 
+            text: 'Installing the Mod', 
             link: '/getting-started/installation', 
           },
           {
-            text: 'Registration Guide',
-            link: '/getting-started/registration'
+            text: 'Registering Your Account',
+            link: '/getting-started/registering-your-account'
+          },
+          {
+            text: 'Using the Dashboard',
+            link: '/getting-started/using-the-dashboard'
           }
         ]
       },
       {
         text: 'Other Guides',
         items: [
-          { text: 'OptiPi Proxy Setup', link: '/other-guides/optipi-proxy' }
+          { text: 'ArcPi Proxy Setup', link: '/other-guides/arcpi-proxy' }
         ]
       },
       {

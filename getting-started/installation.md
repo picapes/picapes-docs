@@ -26,17 +26,17 @@ This would guide you through the installation process of PiCapes.
   <div class="install-card">
     <div class="install-header">
       <div class="install-title">
-        <img src="/assets/installation/optifine.png" alt="OptiFine">
+        <img src="/assets/installation/arcpi.png" alt="ArcPi Proxy">
         <div>
-          <h3>OptiPi Proxy</h3>
+          <h3>ArcPi Proxy</h3>
           <span class="tag secondary">For Older Minecraft Versions</span>
         </div>
       </div>
     </div>
     <p>
-      Display PiCapes capes in OptiFine clients or <a href="https://modrinth.com/mod/capes">Fabric + Capes Mod</a> without installing the PiCapes's Fabric mod.
+      Display PiCapes capes in OptiFine clients & <a href="https://modrinth.com/mod/capes">Fabric Capes Mod</a> without installing the PiCapes's Fabric mod.
     </p>
-    <a href="/other-guides/optipi-proxy" class="install-btn secondary">
+    <a href="/other-guides/arcpi-proxy" class="install-btn secondary">
       Setup Proxy
     </a>
     <div class="install-meta warning">
@@ -46,7 +46,19 @@ This would guide you through the installation process of PiCapes.
 
 </div>
 
-After installation, the next step is to register your Minecraft account with PiCapes.
+PiCapes runs entirely through our Discord bot, so if you're not already in the server, make sure you [join](https://dsc.gg/picapes) before you install.
+
+If you're looking for just a basic setup, the `#📚・tutorial` channel should explain everything you need to know. If you need more help, simply watch the tutorial below.
+
+<div class="video-container">
+  <iframe
+    :src="`https://www.youtube.com/embed/${videoId}`"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
 
 <style>
 .install-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:32px 0}

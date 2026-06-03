@@ -29,7 +29,7 @@ description: Learn what PiCapes is and how it works.
   style="border-radius:15px"
 />
 
-PiCapes supports **Fabric 1.21.8+** through the **Cape Provider X** mod, along with clients and mods that display **OptiFine capes**, including **1.8 clients with OptiFine**, **OptiFine mod**, **Capes mod**, and more.
+PiCapes supports **Fabric 1.21.8+** through the **Cape Provider X** mod, along with clients and mods that display **OptiFine capes**, including **1.8 clients with OptiFine**, **OptiFine mod**, **Capes mod**, and more with **ArcPi Proxy**.
 
 ## Getting Started
 
