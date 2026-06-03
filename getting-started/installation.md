@@ -40,7 +40,7 @@ This would guide you through the installation process of PiCapes.
       Setup Proxy
     </a>
     <div class="install-meta warning">
-      No animated capes support in this method.
+      Animated Capes not supported.
     </div>
   </div>
 
