@@ -51,10 +51,10 @@ onBeforeUnmount(() => {
       aria-labelledby="watch-video-title"
       @click.self="closeVideo"
     >
+      <button class="video-modal-close" type="button" aria-label="Close video" @click="closeVideo">
+        <i class="fas fa-xmark" aria-hidden="true"></i>
+      </button>
       <div class="video-modal-panel">
-        <button class="video-modal-close" type="button" aria-label="Close video" @click="closeVideo">
-          <i class="fas fa-xmark" aria-hidden="true"></i>
-        </button>
         <div class="video-frame">
           <iframe
             :src="videoSrc"
@@ -81,7 +81,6 @@ onBeforeUnmount(() => {
 }
 
 .video-modal-panel {
-  position: relative;
   width: min(960px, 100%);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -92,9 +91,9 @@ onBeforeUnmount(() => {
 
 .video-modal-close {
   position: absolute;
-  top: 10px;
-  right: 10px;
-  z-index: 1;
+  top: 24px;
+  right: 24px;
+  z-index: 1001;
   display: grid;
   place-items: center;
   width: 34px;
