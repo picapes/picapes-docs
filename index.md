@@ -16,10 +16,14 @@ hero:
       icon: <i class="fa-solid fa-download"></i>
       text: Install PiCapes
       link: /getting-started/installation
+    #- theme: alt
+    #  icon: <i class="fas fa-images"></i>
+    #  link: https://catalog.picapes.syanic.org/
+    #  text: View Capes Gallery
     - theme: alt
-      icon: <i class="fas fa-images"></i>
-      link: https://catalog.picapes.syanic.org/
-      text: View Capes Gallery
+      icon: <i class="fas fa-play"></i>
+      text: Watch Tutorial
+      link: '#watch-video'
     - theme: alt
       icon: <i class="fab fa-discord"></i>
       text: Join Discord
@@ -38,7 +42,52 @@ features:
 
 ---
 
+<!-- Theres work needed here -->
+<!--
+<style>
+/* Home Cards */
+.home-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;width:100%;margin:48px 0 36px}
+.home-card{border:1px solid var(--vp-c-bg-soft);border-radius:12px;background:var(--vp-c-bg-soft);overflow:hidden}
+.home-card-image{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--vp-c-bg-alt);border-bottom:1px solid var(--vp-c-bg-soft)}
+.home-card-content{padding:24px}
+.home-card h2,.home-card h3{margin:0;color:var(--vp-c-text-1);border-bottom:0!important;font-size:1.08rem;line-height:1.4;letter-spacing:0}
+.home-card p{margin:8px 0 0;color:var(--vp-c-text-2);font-size:.96rem;line-height:1.65}
+@media(max-width:960px){
+.home-card-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:640px){
+.home-card-grid{grid-template-columns:1fr;gap:12px;margin:34px 0 26px}
+}
+</style>
+<div class="home-card-grid">
+  <div class="home-card">
+    <img class="home-card-image" src="https://placehold.co/640x360/png" alt="Placeholder image">
+    <div class="home-card-content">
+      <h2>Community Capes</h2>
+      <p>Browse community-made capes or upload your own designs.</p>
+    </div>
+  </div>
+
+  <div class="home-card">
+    <img class="home-card-image" src="https://placehold.co/640x360/png" alt="Placeholder image">
+    <div class="home-card-content">
+      <h3>Upload Your Cape</h3>
+      <p>Add your own design and use it in game.</p>
+    </div>
+  </div>
+
+  <div class="home-card">
+    <img class="home-card-image" src="https://placehold.co/640x360/png" alt="Placeholder image">
+    <div class="home-card-content">
+      <h3>Community</h3>
+      <p>Join thousands of players on Discord.</p>
+    </div>
+  </div>
+</div>
+-->
+
 <ClientOnly>
+  <HomeVideoModal />
   <PartnerCarousel />
 </ClientOnly>
 

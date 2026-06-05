@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import HomeActionIcons from './HomeActionIcons.vue'
+import HomeVideoModal from './HomeVideoModal.vue'
 import PartnerCarousel from './PartnerCarousel.vue'
 import './style.css'
 
@@ -16,6 +17,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
+    app.component('HomeVideoModal', HomeVideoModal)
     app.component('PartnerCarousel', PartnerCarousel)
   }
 }

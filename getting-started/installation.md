@@ -1,3 +1,11 @@
+<script setup>
+import { computed } from 'vue'
+import { useData } from 'vitepress'
+
+const { theme } = useData()
+const videoId = computed(() => theme.value.tutorialVideoId)
+</script>
+
 # Installation
 This would guide you through the installation process of PiCapes.
 

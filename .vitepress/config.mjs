@@ -48,6 +48,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: '/assets/picapes-logo.png',
+    tutorialVideoId: '_d0Ekxj8KKo', // YouTube Tutorial video ID
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
