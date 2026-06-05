@@ -38,6 +38,10 @@ features:
 
 ---
 
+<ClientOnly>
+  <PartnerCarousel />
+</ClientOnly>
+
 <style>
 /* Distance between text and icon */
 .VPHomeHero .actions .VPButton {
