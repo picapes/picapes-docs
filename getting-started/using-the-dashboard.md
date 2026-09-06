@@ -19,9 +19,9 @@ Click **Login to Catalog Dashboard** to continue.
 After clicking the link, you will be redirected to the PiCapes Dashboard and automatically signed in.
 
 
-::: warning ⚠ Important
+<!--::: warning ⚠ Important
 Dashboard login links are tied to your account and should never be shared with anyone else. If accidently shared, Running `/login` again will invalidate any previous dashboard login session and generate a new login link.
-:::
+:::-->
 
 <!--
 ## Applying a Cape (from Catalog)
